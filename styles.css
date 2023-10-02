@@ -54,7 +54,7 @@ form{
 }
 
 button {
-    width: 20vw;
+    width: auto;
     height: auto !important;
     align-items: center;
     height: min-content;
