@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (attendance === 'offline') {
       // Replace this with actual server-side PDF generation and URL
-      const pdfUrl = 'https://drive.google.com/file/d/1zHlDXSRNZAHFOYPiVly7P-iVQSUlVeXl/view?usp=sharing';
+      const pdfUrl = 'https://drive.google.com/file/d/12AWHVkNM5eU0OmRTXSliyQs1YTz-zcJR/view?usp=sharing';
 
       // Create a hidden anchor element to trigger the download
       const downloadAnchor = document.createElement('a');
